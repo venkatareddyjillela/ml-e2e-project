@@ -2,4 +2,4 @@
 pandas
 numpy
 seaborn
--e .
+-e .    ## this will trigger setup.py file to run when requirements file runs
