@@ -1,5 +1,9 @@
-
 pandas
 numpy
 seaborn
--e .    ## this will trigger setup.py file to run when requirements file runs
+matplotlib
+scikit-learn
+catboost
+xgboost
+
+-e .   ## this will trigger setup.py file to run when requirements file runs
